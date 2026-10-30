@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Dana 👋
 
-<!--
-**dana-htut/dana-htut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer & Software Engineer
+Focusing on **Odoo Development (Python/OWL Framework)**, backend system architecture, PostgreSQL database design, and automated CI/CD workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, JavaScript (OWL Framework), SQL, HTML/CSS
+- **Frameworks & ERP:** Odoo (Custom Module Development, ORM, Web Controllers), PostgreSQL
+- **DevOps & Tools:** Git, GitHub Actions, PyCharm, Linux, Ruff
+
+---
+
+### 📌 Featured Projects
+- **[abc_retail](https://github.com/dana-htut/abc_retail):** Odoo 19 Retail Chain Management System featuring custom OWL dashboards, inventory reorder parameters, and automated CI linting pipelines.
+
+---
+
+### 📫 How to Reach Me
+- **GitHub:** [@dana-htut](https://github.com/dana-htut)
