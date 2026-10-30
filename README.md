@@ -18,5 +18,5 @@ Focusing on **Odoo Development (Python/OWL Framework)**, backend system architec
 ---
 
 ### 📫 How to Reach Me
-- **Email:** danahtut37@gmail.com
+- **Email:** justinhtut18@gmail.com
 - **GitHub:** [@dana-htut](https://github.com/dana-htut)
